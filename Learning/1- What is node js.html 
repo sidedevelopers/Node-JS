@@ -1,0 +1,11 @@
+=> Node.js is a JavaScript runtime that lets you run JavaScript on the server side, not just in the browser.
+
+=> Node.js can handle many connections at once.
+
+=> Node.js has a huge collection of libraries and frameworks available through npm (Node Package Manager), which speeds up development.
+
+=> Node.js: Provides live chat support, real-time content updates, and notification services.
+
+=> Node.js uses an event-driven, non-blocking I/O model, which allows it to handle many connections simultaneously without waiting for any single operation to complete. This is beneficial for applications that require real-time interactions or handle a lot of I/O operations.
+
+=> "libUV" library we use for non blocking and async feature.
